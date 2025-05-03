@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SHL Assessment Recommender 🚀
 
 A tool for recommending SHL assessments based on job descriptions using semantic search and natural language processing.
@@ -90,3 +91,6 @@ GET /api/recommend?query=your+query+here
 Email: [namanjain34710@gmail.com](mailto\:namanjain34710@gmail.com)
 
 LinkedIn: [Naman Jain](https://www.linkedin.com/in/naman-jain-226135201/)
+=======
+# SHL-Assessment-Recommendation-System
+>>>>>>> 0794cdaabfbe6e336add78fe8273030d4670ca73
